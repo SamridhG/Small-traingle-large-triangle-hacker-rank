@@ -1,0 +1,1 @@
+# Small-traingle-large-triangle-hacker-rank
